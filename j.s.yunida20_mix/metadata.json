@@ -1,0 +1,7 @@
+{
+  "name": "J.S.YUNIDA20 MIX v6.0",
+  "description": "v6.0 업데이트: 라이브러리 검색 기능, 역재생(Reverse) 모드, 와이드 피치 범위 추가.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
